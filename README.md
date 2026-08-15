@@ -1,5 +1,4 @@
-<img src="https://agegenerator.vercel.app/api/age" alt="My Age" />
-
+<a href="#"><img src="https://agegenerator.vercel.app/api/age" alt="My Age" /></a>
 ```
  _   _      _ _         __        __         _     _ 
 | | | | ___| | | ___    \ \      / /__  _ __| | __| |
