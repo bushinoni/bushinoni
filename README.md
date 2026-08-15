@@ -1,5 +1,4 @@
-![MyAge](https://agegenerator.vercel.app/api/age)
-
+<img src="https://agegenerator.vercel.app/api/age" alt="My Age" />
 
 ```
  _   _      _ _         __        __         _     _ 
